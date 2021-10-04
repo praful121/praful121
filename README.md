@@ -14,9 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prafulk52173251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prafulk52173251" height="30" width="40" /></a>
-<a href="https://www.facebook.com/praful.singh.3304673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="praful.singh.3304673" height="30" width="40" /></a>
+<a href="https://fb.com/praful.singh.3304673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="praful.singh.3304673" height="30" width="40" /></a>
 <a href="https://instagram.com/praful_raja_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="praful_raja_2004" height="30" width="40" /></a>
-<a href="https://www.youtube.com/P2R TRUTH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="p2r truth" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCDaVgJHzEzlaYq_fU68Igbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="p2r truth" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
